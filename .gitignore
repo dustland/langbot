@@ -34,7 +34,7 @@ bard.json
 !/docker-compose.yaml
 data/labels/instance_id.json
 .DS_Store
-#/data
+/data
 botpy.log*
 /poc
 /libs/wecom_api/test.py
