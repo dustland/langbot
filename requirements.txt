@@ -7,6 +7,7 @@ aiocqhttp
 qq-botpy-rc
 nakuru-project-idk
 Pillow
+numpy
 tiktoken
 PyYaml
 aiohttp

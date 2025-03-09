@@ -21,6 +21,7 @@ cmdpriv.json
 tips.py
 .venv
 bin/
+env/
 .vscode
 test_*
 venv/
