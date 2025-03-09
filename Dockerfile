@@ -19,4 +19,8 @@ RUN apt update \
     && python -m pip install -r requirements.txt \
     && touch /.dockerenv
 
+# Expose the application ports
+EXPOSE 2280
+EXPOSE 5300
+
 CMD [ "python", "main.py" ]
