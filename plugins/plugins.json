@@ -1,13 +1,13 @@
 {
   "plugins": [
     {
-      "name": "Waifu3",
+      "name": "Waifu4",
       "description": "Cuter than real waifu 333!",
       "version": "1.9.7",
       "author": "ElvisChenML",
       "source": "",
-      "main_file": "plugins/Waifu3/main.py",
-      "pkg_path": "plugins/Waifu3/",
+      "main_file": "plugins/Waifu4/main.py",
+      "pkg_path": "plugins/Waifu4/",
       "priority": 0,
       "enabled": true
     }
